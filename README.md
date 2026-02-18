@@ -5,7 +5,7 @@
 
 ## Topology Diagram
 
-![Topology](Nangman Infra Network/Topology.png)
+![Topology](./Topology.png)
 
 ## Address Plan (CIDR)
 
